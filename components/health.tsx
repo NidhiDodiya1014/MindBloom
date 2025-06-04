@@ -30,7 +30,6 @@ export function Health() {
   })
   const [exercises] = useState<ExerciseSession[]>([
     { type: "Surya Namaskar", duration: 15, completed: false },
-    { type: "Breast Reduction Exercises", duration: 20, completed: false },
     { type: "Nature Walk", duration: 30, completed: false },
     { type: "Breathing Exercises", duration: 10, completed: false },
   ])
