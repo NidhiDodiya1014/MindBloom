@@ -71,7 +71,7 @@ A gentle but powerful push to build the habit of mental clarity every morning.
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/productivity-app.git
+git clone https://github.com/NidhiDodiya1014/MindBloom.git
 cd productivity-app
 npm install
 npm start
